@@ -1,1 +1,1 @@
--J-XX:+UseG1GC
+-J-XX:+UseG1GC -J-XX:MaxRAMPercentage=90.0 -J-XX:+UseStringDeduplication
